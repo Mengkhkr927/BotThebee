@@ -27,9 +27,9 @@ bot.loadPlugin(cmd)
 
 
 
-bot.on('login',function(){
+bot.on('login',function(poiuytr){
 	console.log("Logged In")
-	bot.chat("hello");
+	bot.chat("Hi OO B Bot");
 });
 
 bot.on('time', function(time) {
