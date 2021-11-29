@@ -28,8 +28,8 @@ bot.loadPlugin(cmd)
 
 
 bot.on('login',function(poiuytr){
-	console.log("Logged In")
-	bot.chat("Hi OO B Bot");
+	console.log("ppooiiuu")
+	bot.chat("Hi I'm Bot Create By MengXpather90");
 });
 
 bot.on('time', function(time) {
